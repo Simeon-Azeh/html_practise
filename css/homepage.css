@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f8f9;
+    padding: 0px;
+    margin: 0px;
+}
+
+.about_header {
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    padding: 5px;
+    align-items: center;
+}
+
+.about_header nav ul {
+    display: flex;
+    gap: 20px;
+  
+}
+.about_header nav ul li {
+    list-style: none;
+}
+
+.about_header button {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+}
+
+.about_header nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+

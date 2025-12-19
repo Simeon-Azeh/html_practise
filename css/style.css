@@ -1,0 +1,27 @@
+body {
+    background-color: orange;
+}
+.my-btn {
+    background-color: gray;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+}
+.my-btn:hover {
+    background-color: wheat;
+    border: 1px solid gray;
+    color: gray;
+}
+.firstdiv {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+.main_h1 {
+    color: red;
+}
+
